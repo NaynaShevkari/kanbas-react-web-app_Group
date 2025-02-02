@@ -15,11 +15,11 @@ export default function TOC() {
       <li className="nav-item"><a id="wd-a3" href="#/Labs/Lab5"
           className={`nav-link ${pathname.includes("Lab5") ? "active" : ""}`}>Lab 5</a></li>
       <li className="nav-item"><a id="wd-k" href="#/Kanbas" className="nav-link">Kanbas</a></li>
-      <li className="nav-item"><a id="wd-github" href="https://github.com/saicharan-cpu" target="_blank"
+      <li className="nav-item"><a id="wd-github" href="https://github.com/NaynaShevkari" target="_blank"
           className="nav-link">My GitHub</a></li>
-        <li className="nav-item"><a id="wd-github" href="https://github.com/saicharan-cpu/kanbas-react-web-app" target="_blank"
+        <li className="nav-item"><a id="wd-github" href="https://github.com/NaynaShevkari/kanbas-react-web-app_Group.git" target="_blank"
         className="nav-link">React Web App git code</a></li>
-        <li className="nav-item"><a id="wd-github" href="https://github.com/saicharan-cpu/kanbas-node-server-app" target="_blank"
+        <li className="nav-item"><a id="wd-github" href="https://github.com/NaynaShevkari/kanbas-node-server-app_Group.git" target="_blank"
         className="nav-link">Node Server git code</a></li>
 
     </ul>
